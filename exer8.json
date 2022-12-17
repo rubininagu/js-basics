@@ -1,0 +1,101 @@
+[{
+    "name":"Rhode Island",
+    "Region": "North East",
+    "Capital": "Providence",
+    "Governor":"Dan Mckee",
+    "Population":1098163,
+    "Demonym":"Rhode Islander",
+    "Time Zone":"Eastern",
+    "Website":"www.ri.gov"
+},
+{
+    "name":"Virginia",
+    "Region": "South East",
+    "Capital": "Richmond",
+    "Governor":"Glenn Youngkin",
+    "Population":8654542,
+    "Demonym":"Virginian",
+    "Time Zone":"Eastern",
+    "Website":"www.virginia.gov"
+},
+{
+    "name":"Connecticut",
+    "Region": "North East",
+    "Capital": "Hartford",
+    "Governor":"Ned Lamont",
+    "Population":3605944,
+    "Demonym":"Connecticutian",
+    "Time Zone":"Eastern",
+    "Website":"portal.ct.gov"
+},
+{
+    "name":"New York",
+    "Region": "North East",
+    "Capital": "Albany",
+    "Governor":"Kathy Hochul",
+    "Population":20215751,
+    "Demonym":"New Yorker",
+    "Time Zone":"Eastern",
+    "Website":"www.ny.gov"
+},
+{
+    "name":"New Hampshire",
+    "Region": "North East",
+    "Capital": "Concord",
+    "Governor":"Chris Sununu",
+    "Population":1377529,
+    "Demonym":"Granite Stater",
+    "Time Zone":"Eastern",
+    "Website":"www.nh.gov"
+},
+{
+    "name":"Washington",
+    "Region": "North West",
+    "Capital": "Olympia",
+    "Governor":"Jay Inslee",
+    "Population":7887965,
+    "Demonym":"Washingtonian",
+    "Time Zone":"Pacific",
+    "Website":"wa.gov"
+},
+{
+    "name":"Massachusetts",
+    "Region": "North East",
+    "Capital": "Boston",
+    "Governor":"Charlie Baker",
+    "Population":6984723,
+    "Demonym":"Bay Stater",
+    "Time Zone":"Eastern",
+    "Website":"www.mass.gov"
+},
+{
+    "name":"Ohio",
+    "Region": "North East",
+    "Capital": "Columbus",
+    "Governor":"Mike Dewine",
+    "Population":11780017,
+    "Demonym":"Ohioan",
+    "Time Zone":"Eastern",
+    "Website":"ohio.gov"
+},
+{
+    "name":"New Jersey",
+    "Region": "Mid-Atlantic",
+    "Capital": "Trenton",
+    "Governor":"Phil Murphy",
+    "Population":9288994,
+    "Demonym":"New Jerseyan",
+    "Time Zone":"Eastern",
+    "Website":"nj.gov"
+},
+{
+    "name":"Vermont",
+    "Region": "Eastern",
+    "Capital": "Montpelier",
+    "Governor":"Phil scott",
+    "Population":643503,
+    "Demonym":"Vermonter",
+    "Time Zone":"Eastern",
+    "Website":"www.vermont.gov"
+}
+]
