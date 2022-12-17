@@ -1,63 +1,63 @@
 [{
-    "Player":"Shikhar Dhawan",
-    "Role":"Batsman",
-    "Style":"Left Handed",
-    "Age":34
+    "plaYer":"Shikhar Dhawan",
+    "roLe":"Batsman",
+    "styLe":"Left Handed",
+    "aGe":34
 },
 {
-    "Player":"Virat Kohli",
-    "Role":"Batsman",
-    "Style":"Right Handed",
-    "Age":31
+    "plaYer":"Virat Kohli",
+    "roLe":"Batsman",
+    "stYle":"Right Handed",
+    "aGe":31
 
 },
 {
-    "Player":"Ravindra Jadeja",
-    "Role":"All Rounder",
-    "Style":"Left Handed",
-    "Age":31
+    "plaYer":"Ravindra Jadeja",
+    "roLe":"All Rounder",
+    "stYle":"Left Handed",
+    "aGe":31
 },
 {
-    "Player":"Mohammed Shami",
-    "Role":"Bowler",
-    "Style":"Right-arm",
-    "Age":30
+    "plaYer":"Mohammed Shami",
+    "roLe":"Bowler",
+    "stYle":"Right-arm",
+    "aGe":30
 },
 {
-    "Player":"Manish Pandey",
-    "Role":"Batsman",
-    "Style":"Right Handed",
-    "Age":31
+    "plaYer":"Manish Pandey",
+    "roLe":"Batsman",
+    "stYle":"Right Handed",
+    "aGe":31
 },
 {
-    "Player":"Jasprit Bumrah",
-    "Role":"Bowler	",
-    "Style":"Right-arm",
-    "Age":26
+    "plaYer":"Jasprit Bumrah",
+    "roLe":"Bowlergi",
+    "stYle":"Right-arm",
+    "aGe":26
 },
 {
-    "Player":"Mayank Agarwal",
-    "Role":"Batsman",
-    "Style":"Right Handed",
-    "Age":29
+    "plaYer":"Mayank Agarwal",
+    "roLe":"Batsman",
+    "stYle":"Right Handed",
+    "aGe":29
 },
 { 
-    "Player":"Shreyas Iyer",
-"Role":"Batsman",
-"Style":"Right Handed",
-"Age":25
+    "plaYer":"Shreyas Iyer",
+    "roLe":"Batsman",
+    "stYle":"Right Handed",
+    "aGe":25
 },
 {
-    "Player":"Yuzvendra Chahal",
-    "Role":"Bowler",
-    "Style":"Legbreak",
-    "Age":30
+    "plaYer":"Yuzvendra Chahal",
+    "roLe":"Bowler",
+    "stYle":"Legbreak",
+    "aGe":30
 },
 { 
-    "Player":"KL Rahul",
-"Role":"Wicketkeeper",
-"Style":"Right Handed",
-"Age":28
+    "plaYer":"KL Rahul",
+    "roLe":"Wicketkeeper",
+    "stYle":"Right Handed",
+    "aGe":28
 }
 
 ]
